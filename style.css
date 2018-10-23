@@ -13,6 +13,7 @@ body {
   padding: 0 0 0 10%;
   font-size: 0.7em;
   letter-spacing: 1px;
+  text-decoration: none;
 }
 #title {
   color: darkgrey;
@@ -20,6 +21,12 @@ body {
   padding: 10% 0 3% 10%;
   font-size: 3em;
   letter-spacing: 20px;
+}
+
+#subscript2:hover {
+  font-size: 0.8em;
+  color: gray;
+  text-decoration: none;
 }
 
 img {
