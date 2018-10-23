@@ -1,3 +1,35 @@
-h1 {
-  text-align: center;
+#subscript {
+  color: silver;
+  font-family: trebuchet, sans-serif;
+  padding: 0 0 0 10%;
+  letter-spacing: 5px;
+}
+#title {
+  color: darkgrey;
+  font-family: trebuchet, sans-serif;
+  padding: 10% 0 3% 10%;
+  font-size: 3em;
+  letter-spacing: 20px;
+}
+
+img {
+  max-width: 100%;
+}
+#long  {
+    padding: 10% 10%;
+    height: auto;
+    width: 80%;
+    float:left;
+}
+#tall  {
+    padding: 10% 20%;
+    height: auto;
+    width: 30%;
+    float:left;
+}
+#medium  {
+    padding: 10% 10%;
+    height: auto;
+    width: 60%;
+    float:right;
 }
