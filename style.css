@@ -1,8 +1,18 @@
+body {
+  background-color: #e5faff;
+}
 #subscript {
   color: silver;
   font-family: trebuchet, sans-serif;
   padding: 0 0 0 10%;
   letter-spacing: 5px;
+}
+#subscript2 {
+  color: silver;
+  font-family: trebuchet, sans-serif;
+  padding: 0 0 0 10%;
+  font-size: 0.7em;
+  letter-spacing: 1px;
 }
 #title {
   color: darkgrey;
